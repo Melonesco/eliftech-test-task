@@ -1,4 +1,4 @@
 ## git clone https://github.com/Melonesco/test-deploy.git
-## cd test-deploy/server
+## cd eliftech-test-task/server
 ## npm run install-deps
 ## npm run start
