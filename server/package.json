@@ -4,6 +4,9 @@
   "version": "0.0.1",
   "author": "tuat tran anh",
   "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
   "license": "MIT",
   "scripts": {
     "start": "nodemon index.js"
